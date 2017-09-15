@@ -1,1 +1,2 @@
 Les deux premiers chapitres du cours sur git nous ont appris à utiliser git, les principales commandes ainsi qu'à utiliser GitHub.
+Il reste encore un chapitre sur ce cours.
